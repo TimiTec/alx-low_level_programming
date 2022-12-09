@@ -1,5 +1,6 @@
 #include <stdio.h>
 /*
+ * Main - Entry point
  * The program outputs a string of characters
  */
 
