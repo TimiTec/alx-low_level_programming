@@ -7,7 +7,7 @@
 /*
  * main - Entry point
  *
- * Return: Always 0 (success)
+ * Return: a string if the answer (success)
  */
 int main(void)
 {
