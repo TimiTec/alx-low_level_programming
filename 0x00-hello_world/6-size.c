@@ -13,7 +13,7 @@ int main(void)
 
 	long longtype;
 
-	long double longtypedouble;
+	long int longtypedouble;
 
 	float floattype;
 
