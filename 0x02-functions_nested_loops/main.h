@@ -1,5 +1,4 @@
-#ifndef MAIN_H_INCLUDED
-#define MAIN_H_INCLUDED
+#include <unistd.h>
 
 int _putchar(char c);
 void print_alphabet(void);
@@ -15,4 +14,4 @@ int add(int a, int b);
 void print_tp_98(int n);
 void print_times_table(int n);
 
-#endif
+
