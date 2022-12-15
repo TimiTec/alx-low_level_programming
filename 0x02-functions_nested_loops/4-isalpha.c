@@ -4,7 +4,7 @@
  * character
  * @c: type int character
  *
- * Return: 1 if the letter, lowercase of uppercase, and 
+ * Return: 1 if the letter, lowercase of uppercase, and
  * 0 otherwise
  */
 int _isalpha(int c)
